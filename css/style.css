@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Notable&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+header{	
+	background-color: #2f4e3f;
+	padding: 10px 0px;
+	color: #eee;
+	border-bottom: 1px solid #eee;
+}
+
+footer{
+	background-color: #2f4e3f;
+	padding: 20px 0px;
+}
+
+body{
+	font-family: "Poppins", sans-serif;
+	color: #fbf9ef;
+	background-color: #172920;
+}
+
+.title {
+	font-family: "Notable", sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 28px;
+}
+
+.subtitle {
+	font-style: italic;
+	text-align: center;
+}
+
+#hero .title {
+	padding-top: 400px;
+}
+
+#hero-historia .title{
+	padding-top:  200px;	
+	text-align: center;
+}
+
+#hero-nt .title {
+	padding-top: 450px;
+}
+
+#sobre {
+	padding-top: 5px;
+}
+
+#sobre .title {
+	padding-top: 100px;
+}
+
+#hero-contacto {
+	padding-bottom: 15px;
+}
+
+#hero-contacto .subtitle {
+	padding-top: 15px;
+}
+
+#info {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#info .title {
+	padding-top: 50px;
+}
+
+#hero-rse{
+	background-image: url("../img/rse-1.jpeg");
+	background-size: cover;
+	background-position: center;
+	padding: 10% 0;
+}
+
+#instrumentos {
+	padding-top: 20px;
+}
+
+#instrumentos .subtitle{
+	padding-top: 40px;
+}
+
+#heroo {
+	background-image: url("../img/pp-1.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 10% 0;
+}
+
+.list-inline-item{
+	font-size: 28px;
+}
+
+h1{
+  text-align: center;
+  font-size: 44px;
+  padding: 10px;
+}
+
+h1 .hero{
+	color: #FBF9EF;
+}
+
+h2{
+	font-family: "Notable", sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 20px;	
+}
+
+p{
+	font-size: 16px;	
+}
+
+.carousel-caption{
+	text-align: center;
+}
+
+.btn{
+	background: #a4b894;
+	color: #fbf9ef;
+}
+
+.btn:hover{
+	background: #accbbe;
+	color: #fbf9ef;
+}
+
+.navbar-nav .nav-link {
+  font-weight: bold;
+  color: #FBF9EF;
+}
+
+#eventos{
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+
+#media{
+	padding-top: 20px;
+	background-color: #fbf9ef; 
+	text-align: center;
+	color: #172920 !important; 
+}
+	
+.twitter-tweet{
+	padding-left: 190px;
+}
+
+.instagram-media{
+	padding-left: 300px
+}
+
+#servicios{
+	background-image:url("../img/servicios 1 img.jpeg");
+	background-size: cover;
+	background-position: center;
+	padding: 10% 0;
+}
+
+#servicios-slides{
+	padding: 15px 0;
+}
+
+#servicios-slides h3{
+	text-align: center;
+	font-size: 20px;
+}
+
+#aboutus{
+	padding: 10% 0;
+	background-image: url("../img/banner servicios.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#misionvision h2{
+	text-align: left;
+}
+
+#misionvision {
+	padding: 25px 0;
+}
+
+#valores {
+	padding-bottom: 25px;
+}
+
+#valores .subtitle{
+	padding-top: 40px;
+}
